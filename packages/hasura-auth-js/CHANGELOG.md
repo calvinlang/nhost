@@ -1,5 +1,11 @@
 # @nhost/hasura-auth-js
 
+## 1.12.0
+
+### Patch Changes
+
+- 54df0df4: Improve the initialisation of the internal authentication state to support React 18 strict mode
+
 ## 1.7.0
 
 ### Minor Changes

@@ -1,5 +1,15 @@
 # @nhost/vue
 
+## 1.12.0
+
+### Patch Changes
+
+- 54df0df4: Remove unused immer dependency
+- Updated dependencies [65687bee]
+- Updated dependencies [54df0df4]
+- Updated dependencies [54df0df4]
+  - @nhost/nhost-js@1.12.0
+
 ## 0.7.0
 
 ### Minor Changes
